@@ -16,7 +16,7 @@ lib/vendor.somc.hardware.camera.provider@1.0.so:vendor/lib/vendor.somc.hardware.
 lib64/vendor.display.color@1.0.so:vendor/lib64/vendor.display.color@1.0.so;DISABLE_DEPS;MODULE_SUFFIX=_vendor
 lib64/vendor.display.color@1.1.so:vendor/lib64/vendor.display.color@1.1.so;DISABLE_DEPS;MODULE_SUFFIX=_vendor
 lib64/vendor.display.postproc@1.0.so:vendor/lib64/vendor.display.postproc@1.0.so;DISABLE_DEPS;MODULE_SUFFIX=_vendor
-lib64/vendor.qti.hardware.qdutils_disp@1.0.so:vendor/lib64/vendor.qti.hardware.qdutils_disp@1.0.so;DISABLE_DEPS
+lib64/vendor.qti.hardware.qdutils_disp@1.0.so:vendor/lib64/vendor.qti.hardware.qdutils_disp@1.0.so;DISABLE_DEPS;MODULE_SUFFIX=_vendor
 
 # DRM_FIRMWARE
 etc/firmware/tzwidevine.b00:vendor/firmware/tzwidevine.b00
